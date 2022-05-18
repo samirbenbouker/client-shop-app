@@ -1,7 +1,6 @@
 import { useState } from "react";
 import styled from "styled-components";
 import { mobile } from "../responsive";
-import axios from "axios";
 import { publicRequest } from "../requestMethods";
 import { useHistory } from "react-router-dom";
 

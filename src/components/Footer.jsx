@@ -29,10 +29,6 @@ const Logo = styled.h1`
   color: #3fa093;
 `;
 
-const Desc = styled.p`
-  margin: 20px 0px;
-`;
-
 const SocialContainer = styled.div`
   display: flex;
 `;
@@ -98,11 +94,6 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        {/* <Desc>
-          There are many variations of passages of Lorem Ipsum available, but
-          the majority have suffered alteration in some form, by injected
-          humour, or randomised words which don’t look even slightly believable.
-        </Desc> */}
         <SocialContainer>
           <Logo>FUNKO</Logo>
           <SocialIcon color="3B5999">
