@@ -38,9 +38,9 @@ export const sliderItems = [
     },
     {
       id: 2,
-      img: dcCollection,
-      title: "DC",
-      cat:"DC"
+      img: "https://images.ecestaticos.com/1LCetaYS28xa6Hkb7BugpVaA4lM=/0x3:1408x795/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd02%2F35f%2F550%2Fd0235f5503b2398267228c3b42a1e009.jpg",
+      title: "ALL FUNKO",
+      cat:"ALL"
     },
     {
       id: 3,
